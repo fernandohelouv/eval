@@ -1,6 +1,6 @@
 # Evaluation
 
-This repository contains the implementation of various Python scripts including pyramid printing, bubble sort algorithm, perfect number identification, finding the saddle points of a matrix, the bisection method for finding polynomial roots and module to plot functions in 2D.
+This repository includes Python scripts for various tasks such as printing pyramids, implementing bubble sort, identifying perfect numbers, finding saddle points in matrices, applying the bisection method for polynomial roots, and plotting functions in 2D.
 
 ## Files
 
