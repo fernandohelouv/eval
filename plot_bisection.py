@@ -1,3 +1,6 @@
+" Plot the polynomial function used in the bisection method. "
+
+
 import matplotlib.pyplot as plt
 import numpy as np
 

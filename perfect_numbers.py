@@ -1,6 +1,4 @@
-"""
-This module contains a function to find perfect numbers within a given range.
-"""
+"This module contains a function to find perfect numbers within a given range."
 
 
 def perfect_nums(first: int, last: int):

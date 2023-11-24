@@ -1,3 +1,6 @@
+" The bisection method is a root-finding algorithm that repeatedly bisects an interval and then selects a subinterval in which a root must lie for further processing. "
+
+
 def bisection_method(f, a, b, tolerance=1e-6, max_iterations=1000) -> float:
     """
     Find a root of the function `f` within the interval [a, b] using the bisection method.
